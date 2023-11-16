@@ -2744,12 +2744,12 @@ select {
   margin: 0;
 }
 .header__logo img {
-  max-width: 28px;
+  max-width: 68px;
 }
 .header__logo-btn {
   margin-left: 15px;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 22 px;
   cursor: pointer;
   align-items: center;
   display: -moz-box;
